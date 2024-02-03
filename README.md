@@ -72,3 +72,4 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://instagram.com/sorin.dumitru.c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorin.dumitru.c" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sorin-cotuna-090100238/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="sorin-cotuna-090100238" height="30" width="40" /></a>
